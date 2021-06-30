@@ -9,3 +9,7 @@ HMM
 نتایج کلی در فایل
 
 https://github.com/mahdisml/DTWHMM/blob/main/results.txt
+
+PDF بصورت
+
+https://github.com/mahdisml/DTWHMM/blob/main/95440296-2-NEW.pdf
